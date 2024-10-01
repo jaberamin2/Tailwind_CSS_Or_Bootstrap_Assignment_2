@@ -1,0 +1,53 @@
+.menu_item{
+    margin-left: 220px;
+}
+
+.menu_item li{
+    padding-left: 10px;
+}
+
+.menu_item li a{
+    color: #072125;
+    transition: 1s;
+}
+
+.menu_item li a:hover{
+    color: #F44335;
+    transition: 0.2s;
+}
+
+.bg-blacks{
+    background-color: #2D3142;
+}
+
+.card{
+    transition: all 0.2s;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+
+
+.subtitle{
+    color: #000000;
+}
+
+.team4{
+    background-color: #F9CCC726;
+}
+
+.icon{
+    color: #00FF84;
+    background-color: #bcefd7;
+    padding: 5px;
+    
+}
+
+.link-secondarys{
+    color: #20484F;
+    transition: 1s;
+}
+.link-secondarys:hover{
+    color: #F44335;
+    transition: 0.2s;
+}
